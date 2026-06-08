@@ -381,4 +381,3 @@ cd meghadut-dashboard && npm run dev
 - [ ] **Blockchain Audit Trail** - Immutable alert history for accountability
 
 
-**Last Updated**: June 8, 2026
